@@ -9,14 +9,9 @@
     <td>Onsite Technical Support</td>
   </tr>
   <tr>
-    <td><b>Main GitHub Account</b></td>
+    <td><b>Main GitHub Accounts</b></td>
     <td><a href="https://github.com/MintLily">@MintLily</a></td>
     <td><a href="https://github.com/Minty-Labs">@Minty-Labs</a></td>
-  </tr>
-  <tr>
-    <td><b>Primary Coding Languages</b></td>
-    <td>C#</td>
-    <td>HTML, CSS</td>
   </tr>
   <tr>
     <td><b>Languages</b></td>
@@ -25,3 +20,13 @@
     <td>Español (US/MX)</td>
   </tr>
 </table>
+<br />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,raspberrypi,linux" />
+</p>
